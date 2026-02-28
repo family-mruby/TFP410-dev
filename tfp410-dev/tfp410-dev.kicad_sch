@@ -2011,7 +2011,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:HDMI-001")
-		(at 201.93 74.93 180)
+		(at 147.32 76.2 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2020,7 +2020,7 @@
 		(fields_autoplaced yes)
 		(uuid "d8d83205-15ba-47a9-8d22-75a3607b2595")
 		(property "Reference" "Audio1"
-			(at 201.93 105.41 0)
+			(at 147.32 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2028,7 +2028,7 @@
 			)
 		)
 		(property "Value" "HDMI-001"
-			(at 201.93 107.95 0)
+			(at 147.32 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2036,7 +2036,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:HDMI-SMD_19P-P0.50-H-F"
-			(at 201.93 39.37 0)
+			(at 147.32 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2045,7 +2045,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Audio-Video-Connectors_Boom-Precision-Elec-HDMI-001_C138388.html"
-			(at 201.93 36.83 0)
+			(at 147.32 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2054,7 +2054,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 201.93 74.93 0)
+			(at 147.32 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2063,7 +2063,7 @@
 			)
 		)
 		(property "LCSC Part" "C138388"
-			(at 201.93 34.29 0)
+			(at 147.32 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
